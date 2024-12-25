@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govindaspkta
-- 👀 I’m interested in java
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in python
+- 🌱 I’m currently learning flask.
 - 💞️ I’m looking to collaborate on ...
 <!---
 Govindaspkta/Govindaspkta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
