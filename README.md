@@ -8,10 +8,11 @@ and every bug a hidden lesson. 🌿🌱💻
 ---
 
 ## 🚀 What I’m up to
-- Building **web apps** that are simple, functional, and elegant  
-- Exploring **Flask, React, Ionic, and Django** for full-stack development  
-- Curious about **AI and how it can shape ideas**  
-- Breaking things… so I can fix them better 😄
+- Building robust **backend systems** with clean architecture and reliable APIs
+- Working with **Python, Django, DRF, Java, and PHP** for server-side development
+- Designing and optimizing databases using **MySQL & PostgreSQL**
+- Passionate about performance, security, and scalable backend logic
+- Breaking things… so I can debug, optimize, and rebuild them stronger 😄
 
 ---
 
@@ -25,11 +26,26 @@ and every bug a hidden lesson. 🌿🌱💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-*Mastering: Django
+*Mastering: Python
 
 ---
 
 ## 📌 Featured Work
+
+**🗂 CRM Backend APIs**
+Django + DRF — secure, optimized CRM backend with
+authentication and production-ready endpoints.
+🔴 Live: https://crm.autonomoustechnology.net/
+
+**📈 Stock Prediction Portal**
+Django + React + TensorFlow — AI-based stock forecasting
+with trained ML models and clean chart visualizations.
+🔗 https://github.com/Govindaspkta/stock-prediction-portal
+
+**✈️ Travelling Application**
+Django, HTML, CSS — transport listings with booking,
+filters, and simple, responsive UI.
+🔗 https://github.com/Govindaspkta/Travel-Booking-Application
 
 **🧩 Quiz-Master**  
 A full-stack quiz app built with MySQL, Flask, Ionic, React, and Tailwind CSS —  
